@@ -14,7 +14,7 @@
 
 ## 🎥 Demo Video
 
-![demo](./demo.gif)
+![demo](./output.gif)
 
 ## 📋  Usage
 
