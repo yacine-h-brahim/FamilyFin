@@ -11,6 +11,13 @@
 - **Multi-language Support** 🌐: Supports both Arabic 🇩🇿 and English 🇺🇸 languages.
 - **Dark Mode Support** 🌑: Supports both dark mode 🌙 and light mode ☀️.
 - **Data Export** 📤: Export your financial data to Excel sheets 📈.
+
+## 🎥 Demo Video
+
+<video width="320" height="240" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ## 📋  Usage
 
 1. Open the app 📱 and create an account 🙋‍♂️.
