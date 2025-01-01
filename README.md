@@ -11,25 +11,6 @@
 - **Multi-language Support** 🌐: Supports both Arabic 🇩🇿 and English 🇺🇸 languages.
 - **Dark Mode Support** 🌑: Supports both dark mode 🌙 and light mode ☀️.
 - **Data Export** 📤: Export your financial data to Excel sheets 📈.
-## 🛠  Installation
-
-1. Clone the repository  🖥:
-   ```sh
-   git clone https://github.com/yourusername/family_fin.git
-   ```
-2. Navigate to the project directory 📂:
-   ```sh
-   cd family_fin
-   ```
-3. Install dependencies 📦:
-   ```sh
-   flutter pub get
-   ```
-4. Run the app ▶️:
-   ```sh
-   flutter run
-   ```
-
 ## 📋  Usage
 
 1. Open the app 📱 and create an account 🙋‍♂️.
@@ -37,10 +18,6 @@
 3. View your financial reports 📊 to track your spending 🕵️.
 4. Export your Data to an Excel sheet 📤🗂.
 
-
-## 🤝 Contributing
-
-Contributions are welcome! 🎉 Please fork the repository and submit a pull request 🔄.
 
 
 ## 📜 License
