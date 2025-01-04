@@ -16,6 +16,7 @@
 
 ![demo](output.gif)
 
+
 ## 📋  Usage
 
 1. Open the app 📱 and create an account 🙋‍♂️.
